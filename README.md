@@ -4,38 +4,6 @@ That's about it.
 
 ~Mickey
 
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-
-
-Boop!
-
 
 
 ## Welcome to GitHub Pages
