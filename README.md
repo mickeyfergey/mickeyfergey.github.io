@@ -13,9 +13,9 @@ Programs made in my Intro to Programming Class
 
 My programs:
 
-**[12 Days of Christmas](https://github.com/mickeyfergey/AdventureGameFinal.git)**
+12 Days of Christmas
 
-Adventure Game
+**[Adventure Game](https://github.com/mickeyfergey/AdventureGameFinal.git)**
 
 Adventure Game Final
 
