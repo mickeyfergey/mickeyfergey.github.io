@@ -15,9 +15,9 @@ My programs:
 
 12 Days of Christmas
 
-**[Adventure Game](https://github.com/mickeyfergey/AdventureGameFinal.git)**
+Adventure Game
 
-Adventure Game Final
+**[Adventure Game Final](https://github.com/mickeyfergey/AdventureGameFinal.git)**
 
 Keyboard Menu Demo
 
