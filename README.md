@@ -1,45 +1,26 @@
-**Welcome to my _website!_**
-
-That's about it.
-
-~Mickey
+**Welcome to my website!**
 
 
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mickeyfergey/mickeyfergey.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Programs made in my Intro to Programming Class
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+My programs:
 
-**Bold** and _Italic_ and `Code` text
+12 Days of Christmas
 
-[Link](url) and ![Image](src)
-```
+Adventure Game
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Adventure Game Final
 
-### Jekyll Themes
+Keyboard Menu Demo
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mickeyfergey/mickeyfergey.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Study Application
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Trivia Game 3
